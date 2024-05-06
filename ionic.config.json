@@ -1,0 +1,7 @@
+{
+  "name": "gdg_Angular_CrearApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
